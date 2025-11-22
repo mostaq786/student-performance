@@ -1,2 +1,2 @@
 #Readme contents here
-![Python Wallaper] Python Wallpaper.jpeg
+![Python Wallaper] (Python Wallpaper.jpeg)
