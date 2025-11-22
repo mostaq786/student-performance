@@ -1,2 +1,2 @@
 #Readme contents here
-[![Images]](Python%20Wallpaper.jpeg)
+![Images](Python%20Wallpaper.jpeg)
